@@ -27,7 +27,9 @@ namespace AulaFuncaoMultiRetornoManha
         {
             AtualizaDG();
         }
-
+        /// <summary>
+        /// Atualiza o DataGridView dos meses ja calculados
+        /// </summary>
         private void AtualizaDG()
         {
             List<string[]> lista = DBFunction.GenericSelectAll("Historico");
