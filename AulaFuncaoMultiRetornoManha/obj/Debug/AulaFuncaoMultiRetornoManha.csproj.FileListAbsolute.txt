@@ -1,0 +1,11 @@
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\bin\Debug\AulaFuncaoMultiRetornoManha.exe.config
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\bin\Debug\AulaFuncaoMultiRetornoManha.exe
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\bin\Debug\AulaFuncaoMultiRetornoManha.pdb
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.Exec03.resources
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.Form1.resources
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.Properties.Resources.resources
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.exe
+C:\Users\victor.schmitt\source\repos\AulaFuncaoMultiRetornoManha\obj\Debug\AulaFuncaoMultiRetornoManha.pdb
